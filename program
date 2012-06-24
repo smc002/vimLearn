@@ -1,0 +1,6 @@
+let list = readfile('keywords')
+for word in list
+while search(word) != 0
+norm ddd]}dd
+endwhile
+endfor
